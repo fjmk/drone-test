@@ -3,5 +3,6 @@ image: bradrydzewski/php:5.5
 script:
   - ls
   - env 
+
 services:
   - mysql
